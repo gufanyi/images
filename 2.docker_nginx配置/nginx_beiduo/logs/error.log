@@ -1,0 +1,86 @@
+2016/01/26 15:30:30 [notice] 4533#0: signal process started
+2016/01/26 15:30:30 [error] 4533#0: open() "/mnt/disk1/run_time/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2016/01/26 15:30:51 [notice] 4538#0: signal process started
+2016/01/26 15:30:51 [error] 4538#0: open() "/mnt/disk1/run_time/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2016/01/26 15:31:29 [notice] 4555#0: signal process started
+2016/01/26 15:31:29 [error] 4555#0: open() "/mnt/disk1/run_time/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2016/01/26 15:34:55 [emerg] 4606#0: open() "/alidata/server/nginx/conf/nginx.conf" failed (2: No such file or directory)
+2016/01/26 15:35:15 [emerg] 4633#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/01/26 15:35:15 [notice] 4633#0: try again to bind() after 500ms
+2016/01/26 15:35:15 [emerg] 4633#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/01/26 15:35:15 [notice] 4633#0: try again to bind() after 500ms
+2016/01/26 15:35:15 [emerg] 4633#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/01/26 15:35:15 [notice] 4633#0: try again to bind() after 500ms
+2016/01/26 15:35:15 [emerg] 4633#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/01/26 15:35:15 [notice] 4633#0: try again to bind() after 500ms
+2016/01/26 15:35:15 [emerg] 4633#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/01/26 15:35:15 [notice] 4633#0: try again to bind() after 500ms
+2016/01/26 15:35:15 [emerg] 4633#0: still could not bind()
+2016/01/26 15:38:11 [notice] 4694#0: signal process started
+2016/01/26 15:38:11 [error] 4694#0: open() "/mnt/disk1/run_time/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2016/01/26 16:28:16 [emerg] 5642#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/01/26 16:28:16 [notice] 5642#0: try again to bind() after 500ms
+2016/01/26 16:28:16 [emerg] 5642#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/01/26 16:28:16 [notice] 5642#0: try again to bind() after 500ms
+2016/01/26 16:28:16 [emerg] 5642#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/01/26 16:28:16 [notice] 5642#0: try again to bind() after 500ms
+2016/01/26 16:28:16 [emerg] 5642#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/01/26 16:28:16 [notice] 5642#0: try again to bind() after 500ms
+2016/01/26 16:28:16 [emerg] 5642#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/01/26 16:28:16 [notice] 5642#0: try again to bind() after 500ms
+2016/01/26 16:28:16 [emerg] 5642#0: still could not bind()
+2016/02/25 03:28:40 [notice] 5992#0: using the "epoll" event method
+2016/02/25 03:28:40 [warn] 5992#0: 10240 worker_connections exceed open file resource limit: 1024
+2016/02/25 03:28:40 [notice] 5992#0: nginx/1.6.2
+2016/02/25 03:28:40 [notice] 5992#0: built by gcc 4.8.3 20140911 (Red Hat 4.8.3-9) (GCC) 
+2016/02/25 03:28:40 [notice] 5992#0: OS: Linux 3.10.0-229.el7.x86_64
+2016/02/25 03:28:40 [notice] 5992#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2016/02/25 03:28:40 [emerg] 5993#0: open() "/usr/loca/nginx/logs/nginx.pid" failed (2: No such file or directory)
+2016/02/25 03:29:05 [notice] 5994#0: using the "epoll" event method
+2016/02/25 03:29:05 [warn] 5994#0: 10240 worker_connections exceed open file resource limit: 1024
+2016/02/25 03:29:05 [notice] 5994#0: nginx/1.6.2
+2016/02/25 03:29:05 [notice] 5994#0: built by gcc 4.8.3 20140911 (Red Hat 4.8.3-9) (GCC) 
+2016/02/25 03:29:05 [notice] 5994#0: OS: Linux 3.10.0-229.el7.x86_64
+2016/02/25 03:29:05 [notice] 5994#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2016/02/25 03:29:05 [notice] 5995#0: start worker processes
+2016/02/25 03:29:05 [notice] 5995#0: start worker process 5996
+2016/02/25 03:29:05 [notice] 5995#0: start worker process 5997
+2016/02/25 03:29:05 [notice] 5995#0: start worker process 5998
+2016/02/25 03:29:05 [notice] 5995#0: start worker process 5999
+2016/02/25 03:29:05 [notice] 5995#0: start worker process 6000
+2016/02/25 03:29:05 [notice] 5995#0: start worker process 6001
+2016/02/25 03:29:05 [notice] 5995#0: start worker process 6002
+2016/02/25 03:29:05 [notice] 5995#0: start worker process 6003
+2016/02/25 03:29:05 [notice] 5995#0: start cache manager process 6004
+2016/02/25 03:29:05 [notice] 5995#0: start cache loader process 6005
+2016/02/25 03:29:08 [emerg] 6006#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/02/25 03:29:08 [notice] 6006#0: try again to bind() after 500ms
+2016/02/25 03:29:08 [emerg] 6006#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/02/25 03:29:08 [notice] 6006#0: try again to bind() after 500ms
+2016/02/25 03:29:08 [emerg] 6006#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/02/25 03:29:08 [notice] 6006#0: try again to bind() after 500ms
+2016/02/25 03:29:08 [emerg] 6006#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/02/25 03:29:08 [notice] 6006#0: try again to bind() after 500ms
+2016/02/25 03:29:08 [emerg] 6006#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2016/02/25 03:29:08 [notice] 6006#0: try again to bind() after 500ms
+2016/02/25 03:29:22 [notice] 6011#0: using the "epoll" event method
+2016/02/25 03:29:22 [warn] 6011#0: 10240 worker_connections exceed open file resource limit: 1024
+2016/02/25 03:29:22 [notice] 6011#0: nginx/1.6.2
+2016/02/25 03:29:22 [notice] 6011#0: built by gcc 4.8.3 20140911 (Red Hat 4.8.3-9) (GCC) 
+2016/02/25 03:29:22 [notice] 6011#0: OS: Linux 3.10.0-229.el7.x86_64
+2016/02/25 03:29:22 [notice] 6011#0: getrlimit(RLIMIT_NOFILE): 1024:4096
+2016/02/25 03:29:22 [notice] 6012#0: start worker processes
+2016/02/25 03:29:22 [notice] 6012#0: start worker process 6013
+2016/02/25 03:29:22 [notice] 6012#0: start worker process 6014
+2016/02/25 03:29:22 [notice] 6012#0: start worker process 6015
+2016/02/25 03:29:22 [notice] 6012#0: start worker process 6016
+2016/02/25 03:29:22 [notice] 6012#0: start worker process 6017
+2016/02/25 03:29:22 [notice] 6012#0: start worker process 6018
+2016/02/25 03:29:22 [notice] 6012#0: start worker process 6019
+2016/02/25 03:29:22 [notice] 6012#0: start worker process 6020
+2016/02/25 03:29:22 [notice] 6012#0: start cache manager process 6021
+2016/02/25 03:29:22 [notice] 6012#0: start cache loader process 6022
+2016/02/25 03:30:22 [notice] 6022#0: http file cache: /usr/local/nginx/cache 0.195M, bsize: 4096
+2016/02/25 03:30:22 [notice] 6012#0: signal 17 (SIGCHLD) received
+2016/02/25 03:30:22 [notice] 6012#0: cache loader process 6022 exited with code 0
+2016/02/25 03:30:22 [notice] 6012#0: signal 29 (SIGIO) received
