@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="zookeeper_monitor">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/reporter"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/zkclient"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/research"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/cmmon"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/monitor"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/toolkit"/>
+        <property name="java-output-path" value="/zookeeper_monitor/build/classes"/>
+        <property name="context-root" value="zookeeper_monitor"/>
+    </wb-module>
+</project-modules>

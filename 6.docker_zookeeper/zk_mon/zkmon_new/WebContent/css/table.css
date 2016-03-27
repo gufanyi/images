@@ -1,0 +1,6 @@
+.mytable {align:center;border-collapse:collapse;border:solid #6AA70B;border-width:0px 0 0 0px;width:500;} 
+.mytable table tr {padding-top:5px;list-style:none; border-bottom:#6AA70B 1px dotted ;font-size: 12px;;height:40px;} 
+.mytable table tr.t1 {background-color:#EEEEEE;}/* ��һ�еı���ɫ */ 
+.mytable table tr.t2{background-color:#;}/* �ڶ��еı���ɫ */ 
+.mytable table tr.t3 {background-color:#CCCCCC;}/* ��꾭��ʱ�ı���ɫ */
+.mytable table tr td{ align:center; }

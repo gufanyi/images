@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/reporter"/>
+	<classpathentry kind="src" path="src/zkclient"/>
+	<classpathentry kind="src" path="src/research"/>
+	<classpathentry kind="src" path="src/cmmon"/>
+	<classpathentry kind="src" path="src/monitor"/>
+	<classpathentry kind="src" path="src/toolkit"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/tomcat6">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="build/classes"/>
+		<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/ecj-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/tomcat7-websocket.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="D:/dev_beiduo/middleware/tomcat7/lib/websocket-api.jar"/>
+</classpath>
