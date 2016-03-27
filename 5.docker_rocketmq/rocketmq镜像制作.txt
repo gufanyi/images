@@ -1,0 +1,4 @@
+sudo docker run -v /mnt/disk1/rocketmq/conf/brokersvr_01:/mnt/disk1/rocketmq/conf \
+-v /mnt/disk1/rocketmq/data/brokersvr_01:/mnt/disk1/rocketmq/data \
+-v /mnt/disk1/rocketmq/logs/brokersvr_01:/mnt/disk1/rocketmq/logs \
+-e JAVA_HOME=/usr/java/jdk1.7.0_71 -d --net=none --name=brokersvr_01 --privileged=true xap/rocketmq_base:0.1

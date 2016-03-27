@@ -1,0 +1,23 @@
+关于rocketmq的线程池线程模型
+this.eventLoopGroupBoss  接收连接的线程
+this.eventLoopGroupWorker 包处理线程
+this.defaultEventExecutorGroup pipeline工作线程
+
+HashMap<String/* topic-queueid */, Long/* offset */> topicQueueTable
+ConcurrentHashMap<String/* topic */, ConcurrentHashMap<Integer/* queueId */, ConsumeQueue>> consumeQueueTable
+
+
+
+
+DefaultMessageStore
+
+包行两个东西
+
+一个是commitLog
+这个主要用来存储所有的消息
+
+
+另外一个是ConsumeQueue集合
+ConcurrentHashMap<String/* topic */, ConcurrentHashMap<Integer/* queueId */, ConsumeQueue>> consumeQueueTable
+这个主要是用来存储关于所有主题的消费队列信息
+消费队列信息主要是消息的在commitlog中的偏移地址和消息的大小
